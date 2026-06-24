@@ -16,6 +16,7 @@ Das Tool sucht automatisch auf Google Maps nach regionalen Unternehmen (z.B. "Ha
 
 - **Automatisierte Lokale Suche:** Nutzt die Google Places API, um Unternehmen in spezifischen Regionen zu finden.
 - **Smarte PageSpeed-Analyse:** Bewertet automatisch die mobile Performance der gefundenen Websites.
+- **KI-Vision Design-Prüfer (NEU!):** Startet automatisch einen unsichtbaren Browser (Playwright), macht einen Screenshot der Lead-Website und schickt diesen an ein komplett kostenloses, lokales Open-Source-KI-Modell (Ollama + Llava). Wenn die KI entscheidet, dass die Website "modern" aussieht, wird der Lead sofort aussortiert, um peinliche Kaltakquise zu vermeiden!
 - **Intelligenter E-Mail-Scraper:** Durchsucht Startseiten, Impressum und Kontaktseiten und ignoriert dabei aktiv "falsche" Adressen (z.B. `wix.com`, `wordpress.com` oder Bild-Dateiendungen).
 - **Automatisierte Outreach-Pipeline:** Generiert hochgradig personalisierte E-Mail-Entwürfe, die passgenau auf die spezifischen Schwachstellen der Website des Leads zugeschnitten sind.
 - **Vermeidung von Duplikaten:** Nutzt ein globales Blacklist-System, das sicherstellt, dass bereits bearbeitete Unternehmen bei zukünftigen Suchen komplett übersprungen werden. Das spart API-Kontingente und Zeit.

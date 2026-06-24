@@ -15,6 +15,7 @@ The tool automatically searches Google Maps for regional businesses (e.g., "Hand
 
 - **Automated Local Search:** Uses the Google Places API to find businesses in specific regions.
 - **Smart PageSpeed Analysis:** Automatically evaluates the mobile performance of found websites.
+- **AI Vision Design Evaluator (NEW!):** Automatically spins up a headless browser (Playwright), takes a screenshot of the lead's website, and sends it to a completely free, local Open-Source AI model (Ollama + Llava). If the AI determines the website looks "modern", it removes the lead to avoid embarrassing pitches!
 - **Intelligent Email Scraper:** Scrapes the homepage and legal/contact pages while actively ignoring false positives (e.g., `wix.com`, `wordpress.com`, or image extensions).
 - **Automated Outreach Pipeline:** Generates highly personalized cold-email drafts tailored to the specific weak points of the lead's website.
 - **Duplicate Prevention:** Uses a global blacklist system to ensure that previously processed businesses are completely skipped in future searches, saving API quotas and time.
