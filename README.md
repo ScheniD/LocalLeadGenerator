@@ -1,5 +1,6 @@
 # 📍 Local Lead Generator (Automated Regional Lead Scraper)
 
+*Read this in [German / Deutsch](README.de.md)*
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![React](https://img.shields.io/badge/React-Next.js-black.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
