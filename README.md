@@ -1,10 +1,14 @@
-# 🐙 AnimalLeadGen - Automated Regional Lead Scraper
+# 📍 Local Lead Generator (Automated Regional Lead Scraper)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![React](https://img.shields.io/badge/React-Next.js-black.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-**AnimalLeadGen** is an automated, highly efficient lead generation tool designed specifically for local businesses and web development agencies. It automatically searches Google Maps for regional businesses (e.g., "Handwerk Darmstadt"), analyzes their web presence via Google PageSpeed Insights, finds contact data, and prepares automated, personalized email outreach campaigns.
+**Local Lead Generator** is an automated, highly efficient lead generation pipeline designed for local businesses and web development agencies. 
+
+> 🐾 **Origin Story:** This project originally started under the name "AnimalLeadGen" as a niche tool to find regional pet-related businesses (like dog groomers / Hundefriseure). As the pipeline proved to be highly effective, it was generalized and scaled into a multi-industry scraper capable of analyzing any local business sector.
+
+The tool automatically searches Google Maps for regional businesses (e.g., "Handwerk Darmstadt"), analyzes their web presence via Google PageSpeed Insights, extracts verified contact data, and prepares automated, highly personalized cold-email campaigns.
 
 ## 🚀 Key Features
 
